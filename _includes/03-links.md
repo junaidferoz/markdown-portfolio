@@ -1,2 +1,1 @@
-## my github link
-[GitHub] https://github.com/junaidferoz
+https://github.com/junaidferoz
